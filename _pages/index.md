@@ -1,12 +1,15 @@
 ---
 title: "交野レビュー"
-author: default
+author: 長崎泰千
 permalink: /
 ---
 
 # 交野市  
 人口：７４,４３０人  
 面積：25.55平方キロメートル
+
+
+
 
 
 

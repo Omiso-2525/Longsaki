@@ -12,10 +12,19 @@ permalink: /
 
 
 
-![image](/assets/images/ka.jpg)
 
 
 
+![image](/assets/images/ka.jpg)　　
+
+
+# 良いところ　　
+
+自然が綺麗
+
+
+
+![image](/assets/images/ka.jpg)　　
 
 
 

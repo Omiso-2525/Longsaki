@@ -4,7 +4,8 @@ author: default
 permalink: /
 ---
 
-# 交野市
+# 交野市  
+人口：７４,４３０人
 
 
 

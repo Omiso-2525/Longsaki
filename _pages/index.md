@@ -24,7 +24,9 @@ permalink: /
 
 
 
-![image](/assets/images/ka.jpg)　　
+![image](/assets/images/交野自然.jpg)　　
+
+交通が便利
 
 
 

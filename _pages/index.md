@@ -1,12 +1,13 @@
 ---
-title: "ここにページのタイトル"
+title: "自己紹介"
 author: default
 permalink: /
 ---
 
 
+名前：長崎　泰千
+年齢：１８
 
-**こんばんは**
 
 
 

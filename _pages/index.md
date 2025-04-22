@@ -12,7 +12,7 @@ permalink: /
 
 
 
-![image](/Longsaki/assets/images/ka.png)
+![image](/Longsaki/assets/images/ka.jpg)
 
 
 

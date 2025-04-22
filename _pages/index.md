@@ -27,7 +27,7 @@ permalink: /
 
 ![image](/assets/images/交野自然.jpg)　　
 
-交通が便利　　
+交通が便利  
 京阪、JR、高速道路、バス、が使える
 
 

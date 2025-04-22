@@ -1,12 +1,11 @@
 ---
-title: "自己紹介"
+title: "交野レビュー"
 author: default
 permalink: /
 ---
 
 
-名前：長崎　泰千　
-年齢：１８　
+
 
 
 
